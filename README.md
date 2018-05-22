@@ -3,7 +3,7 @@ Preimage Attacks on the Round-reduced Keccak with Cross-linear Structures.
 
 By Yao Sun(sunyao@iie.ac.cn) and Ting Li(liting@iie.ac.cn).
 ### Introduction
-We did a practical preimage attack on the 3-round instance Keccak [r = 240, c =160, nr = 3] in the Keccak Challenge. 
+We did a practical preimage attack on the 3-round instance Keccak [r = 240, c =160, nr = 3] in the Keccak Challenge(https://keccak.team/crunchy_contest.html). 
 We formulated 80 quadratic polynomials in 80unknowns from the preimage problem by guessing the values of 31 linear polynomials.
 We guessed the values of another 15 linear polynomials to get 50 linear equationstotally by using the cross-linear structures.
 Then we obtained 81 linearequations in 80 unknowns. 
