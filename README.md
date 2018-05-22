@@ -12,7 +12,6 @@ At last, we verified the solutionby the original 80 polynomials.
 Totally, the attack costs 5 days with 8 GPU cards,and we finally found a true solution as well as a preimage to this Keccak instance.
 Here we give the code on CPU since it is easier to deploy.
 ### Usage
-After download the code, first complile, then run.
 ```
 1. cd $KECCAK3R400_ROOT
 2. make
