@@ -47,7 +47,9 @@ If this code is helpful, please consider citing:
 	number = {4},
 	year = {2017},
 	keywords = {Cryptanalysis; SHA-3; Keccak; Preimage attacks},
-	issn = {2519-173X},	pages = {39--57},	doi = {10.13154/tosc.v2017.i4.39-57},
+	issn = {2519-173X},
+	pages = {39--57},
+	doi = {10.13154/tosc.v2017.i4.39-57},
 	url = {https://tosc.iacr.org/index.php/ToSC/article/view/802}
 }
 ```
