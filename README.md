@@ -39,7 +39,7 @@ x1*(x2+x3+x4+x200+x201+x202)+x2*(x3+x4+x202+1)+x3+x4+x200+x201+1.
 
 If this code is helpful, please consider citing:
 ```
-@articleToSC802{fse2017,
+@articleToSC802{fse2018,
 	author = {Ting Li and Yao Sun and Maodong Liao and Dingkang Wang},
 	title = {Preimage Attacks on the Round-reduced Keccak with Cross-linear Structures},
 	journal = {IACR Transactions on Symmetric Cryptology},
